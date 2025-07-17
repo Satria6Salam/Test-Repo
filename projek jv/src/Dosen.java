@@ -1,5 +1,5 @@
-public class User {
+public class Dosen {
     public static void main(String[] args) {
-        System.out.println("User");
+        System.out.println("dr. Gunawan");
     }
 }

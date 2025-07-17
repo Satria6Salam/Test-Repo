@@ -1,7 +1,7 @@
-public class App {
+public class Mahasiswa {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
-        System.out.println("My name is Satria");
-        System.out.println("A");
+        System.out.println("Satria Badrus");
+        System.out.println("Novika Salsa");
+        
     }
 }
